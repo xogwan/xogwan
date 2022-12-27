@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-
+https://capsule-render.vercel.app/api?
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi! I'm %20xogwan&fontSize=90" />;
