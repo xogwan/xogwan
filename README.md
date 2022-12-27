@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=XOGWAN&fontSize=90)
+
 ✋안녕하세요! 열정적이고 꾸준한 개발자 연태관입니다.🤚
 
 <!--
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=XOGWAN&fontSize=90)
 
 <div>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
