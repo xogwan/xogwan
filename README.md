@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=XOGWAN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=170&section=header&text=XOGWAN&fontSize=90)
 
 ✋안녕하세요! 열정적이고 꾸준한 개발자 연태관입니다.🤚
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 <div>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -40,3 +40,6 @@ Here are some ideas to get you started:
  
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogwan&show_icons=true&theme=radical)
+ 
+ 
+ </div>
