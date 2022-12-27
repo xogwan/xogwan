@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!I'm xogwan&fontSize=90" />
+
+ <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat&logo=TypeScript&logoColor=green"/>
+ 
