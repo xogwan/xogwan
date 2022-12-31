@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
-
+<div align=center>
 <h3>Profile</h3>
 <hr>
 연태관<br>
