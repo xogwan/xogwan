@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
 <div align=center>
 <h3>Profile</h3>
-<hr>
 연태관<br>
 1997.03.24<br>
 <strong>BackEnd Developer, Web Developer, FullStack Developer</strong><br><br>
@@ -26,7 +25,7 @@ Contact<br>
 
 <div>
  <h3>🖥️ Tech Skills</h3>
- <hr>
+ 
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
@@ -52,7 +51,6 @@ Contact<br>
  
  <div>
   <h3>🛠️ Collaboration & Tools</h3>
-  <hr>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
@@ -66,6 +64,7 @@ Contact<br>
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
 </div>
+ <br>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogwan&show_icons=true&theme=radical)
  
