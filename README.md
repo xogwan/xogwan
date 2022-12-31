@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
 <div align=center>
 <h3>Profile</h3>
+ <hr>
+
 연태관<br>
 1997.03.24<br>
-<strong>BackEnd Developer, Web Developer, FullStack Developer</strong><br><br>
+<strong>BackEnd Developer, Web Developer, FullStack Developer</strong><br>
 
 Contact<br>
 ☎️ 010-2402-0324<br>
-📧 xogwan@gmail.com<br>
+📧 xogwan@gmail.com<br><br>
 
 <div>
  <h3>🖥️ Tech Skills</h3>
+  <hr>
  
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -47,10 +50,11 @@ Contact<br>
  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-007396?style=flat&logo=QueryDSL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
- </div>
+ </div><br>
  
  <div>
   <h3>🛠️ Collaboration & Tools</h3>
+   <hr>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
