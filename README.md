@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
-
-
-<h3>Profile</h3>
-<hr>
-✋안녕하세요! 열정적이고 꾸준한 개발자 연태관입니다.🤚
-
 <!--
 **xogwan/xogwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center text-align=center>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
+
+<div align=center>
+<h3>Profile</h3>
+<hr>
+연태관
+1997.03.24
+<strong>BackEnd Developer, Web Developer, FullStack Developer</strong>
+
+Contact
+☎️ 010-2402-0324
+📧 xogwan@gmail.com
+
 <div>
  <h3>🖥️Tech Skills</h3>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
