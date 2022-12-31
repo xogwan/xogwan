@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
 
 
-profile
+<h3>Profile</h3>
 <hr>
-<h3>✋안녕하세요! 열정적이고 꾸준한 개발자 연태관입니다.🤚</h3>
+✋안녕하세요! 열정적이고 꾸준한 개발자 연태관입니다.🤚
 
 <!--
 **xogwan/xogwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
