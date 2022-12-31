@@ -12,19 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=XOGWAN&fontSize=90)
 
-<div align=center>
 <h3>Profile</h3>
 <hr>
-연태관
-1997.03.24
-<strong>BackEnd Developer, Web Developer, FullStack Developer</strong>
+연태관<br>
+1997.03.24<br>
+<strong>BackEnd Developer, Web Developer, FullStack Developer</strong><br>
 
-Contact
-☎️ 010-2402-0324
-📧 xogwan@gmail.com
+Contact<br>
+☎️ 010-2402-0324<br>
+📧 xogwan@gmail.com<br>
 
 <div>
  <h3>🖥️Tech Skills</h3>
