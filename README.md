@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 Contact<br>
 ☎️ 010-2402-0324<br>
-📧 xogwan@gmail.com<br><br>
+📧 xogwan@gmail.com<br>
+<a href="[http://www.naver.com](https://super-nigella-579.notion.site/fa418fda414347099ebc4fe18e03fcd8)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
 
 ## 🖥️ Tech Skills
 <div>
