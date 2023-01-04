@@ -23,7 +23,7 @@ Contact<br>
 ☎️ 010-2402-0324<br>
 📧 xogwan@gmail.com<br><br>
 <a href="https://super-nigella-579.notion.site/fa418fda414347099ebc4fe18e03fcd8"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/dev_xogwan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
+<a href="https://www.instagram.com/dev.xogwan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
 
 
 ## 🖥️ Tech Skills
